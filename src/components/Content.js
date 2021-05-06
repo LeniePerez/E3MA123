@@ -17,10 +17,10 @@ const Content = () => {
             <div className=" border-3 border-solid col-md-4 p-3 bg-lime">    
  
             <h2 className="text-center"> <strong>Features Photos</strong></h2>
-            <a href="./bird1.png"><img src='./bird1.png' width='160'  alt ="" /></a>      
-            <a href="./bird2.jpg"><img src='./bird2.jpg' width='170'  alt ="" /></a>      
-            <a href="./bird3.jpg"><img src='./bird3.jpg' width='160'  alt ="" /></a>      
-            <a href="./bird4.jpg"><img src='./bird4.jpg' width='170'  alt ="" /></a>      
+            <a href="./eagle.jpg"><img src='./eagle.jpg' width='160'  alt ="" /></a>      
+            <a href="./falcon.jpg"><img src='./falcon.jpg' width='170' height='160' alt ="" /></a>      
+            <a href="./owl.jpg"><img src='./owl.jpg' width='160'  alt ="" /></a>      
+            <a href="./parrot.jpg"><img src='./parrot.jpg' width='170' height='160' alt ="" /></a>      
      
         </div></div>
         </header>
